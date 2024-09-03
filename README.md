@@ -11,12 +11,17 @@
   - Reverse engineering
   - Making fun projects
 
-  
 ---
+
 <p align="center">Work</p>
 <table align="center">
   <tbody>
     <tr>
+      <td align="center" width="96">
+        <img src="./img/terraform.svg" width="48" height="48" />
+        <br>
+        Terraform
+      </td>
       <td align="center" width="96">
         <img src="./img/csharp.svg" width="48" height="48" />
         <br>
